@@ -1,0 +1,8 @@
+[package]
+name = "sporespawn"
+version = "0.1.0"
+authors = ["total <total@viskos.org>"]
+
+[dependencies]
+discord = { git = "https://github.com/SpaceManiac/discord-rs.git" }
+byteorder = "1.0.0"
